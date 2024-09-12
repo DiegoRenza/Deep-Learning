@@ -1,2 +1,2 @@
 # Deep-Learning
-Notebooks for Introducción to Deep Learning Class
+Notebooks for Introduction to Deep Learning Class
